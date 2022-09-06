@@ -69,7 +69,7 @@
         },
         "HEROKU_API_KEY": {
             "description": "Your Heroku API Key to check dyno, bot uptime and bot working day prediction",
-            "required": true
+            "required": false
         }
     },
     "addons": [],
